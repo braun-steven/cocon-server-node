@@ -1,0 +1,9 @@
+{
+		"id":"5555555",
+		"course_name":"Funktionentheorie",
+		"number_of_assignments":"13",
+		"max_points":"10",
+		"course_index":"3",
+		"has_fixed_points":"1",
+		"nec_percent_to_pass":"0.5"
+}
